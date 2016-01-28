@@ -1,10 +1,48 @@
 .player-card {
     display: inline-block;
-    border: 1px solid black;
+    border: 3px solid 	 #3278b3;
     text-align: center;
     margin-bottom: 20px;
+    padding: 5px;
+    color: antiquewhite;
+    font-weight: 900
 }
 
+.page-body {
+    background: dimgray;
+   
+}
+
+
+.container{
+    background: 	#3278b3;
+    
+}
 .panel-heading {
     text-align: center;
+    border: 3px solid 	 #3278b3;
+}
+
+.panel-body {
+    background-color:	#428bca;
+}
+
+.form-body {
+    background: #3278b3;
+    border: 3px solid #3278b3;
+}
+
+
+.input-header {
+    color: antiquewhite
+}
+
+.url {
+    border: 3px solid  #3278b3;
+    margin-top: 3px;
+}
+
+.playerinfo {
+    border: 3px solid  #3278b3;
+    margin-top: 3px;
 }
